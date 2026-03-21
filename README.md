@@ -1,16 +1,32 @@
-# React + Vite
+# react-chatbot-app
+A simple and interactive chatbot application built with React. This project demonstrates how to create a conversational UI with dynamic responses, clean component structure, and responsive design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Features
+- 💬 Real-time chat interface
+- ⚛️ Built with modern React (hooks & functional components)
+- 🎨 Clean and responsive UI
+- 🔄 Dynamic bot responses
+- 📱 Mobile-friendly design
 
-Currently, two official plugins are available:
+# 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS / Styled Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📦 Installation
+git clone https://github.com/elbana-fci/react-chatbot-app.git
+cd react-chatbot-app
+npm install
+npm start
 
-## React Compiler
+# 🎯 Usage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Simply type a message in the chat input and the bot will respond based on predefined logic (eg: flip a coin)
 
-## Expanding the ESLint configuration
+# 🤝 Contributing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Feel free to fork this repo, open issues, or submit pull requests.
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
